@@ -24,6 +24,6 @@ The project successfully transforms raw, messy data into a structured format rea
 ## 📂 Project Structure
 ```text
 ├── data/              # Source dataset (titanic.json)
-├── scripts/           # PySpark scripts for transformation
+├── images             # images screenshots
 ├── docker-compose.yml # Docker configuration for the cluster
 └── README.md          # Project documentation
